@@ -1,0 +1,1 @@
+CHAR* pipeName = "\\\\.\\pipe\\spacedroid";
